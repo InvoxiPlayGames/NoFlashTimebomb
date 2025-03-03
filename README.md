@@ -6,12 +6,12 @@ embedded Flash applications to use, not for end users unfortunately.
 
 Flash has been deprecated for over half a decade, I made this just for a fun
 challenge for [NGPlayerNET](https://github.com/InvoxiPlayGames/NGPlayerNET),
-and because I think pre-patched modules are antithetical to true "preservation"
-- it's destructive and it breaks any confirmation of the original source (no
+and because I think pre-patched modules are antithetical to true "preservation" - 
+it's destructive and it breaks any confirmation of the original source (no
 digital signature!)
 
-I haven't tested this on anything other than the i386 ActiveX module for Flash
-32 r465.
+I haven't tested this on anything other than the ActiveX modules for Flash 32
+r465, both 32-bit and 64-bit.
 
 ## Building
 
